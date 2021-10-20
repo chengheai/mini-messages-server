@@ -1,1 +1,1 @@
-# mini-messages-server
+# message-server
